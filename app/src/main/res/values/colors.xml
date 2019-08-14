@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#33691e</color>
+    <color name="colorPrimaryDark">#003d00</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="bgSuccess">#ffffc2</color>
+    <color name="bgCard">#c5e1a5</color>
+    <color name="bgDark">#629749</color>
+</resources>
